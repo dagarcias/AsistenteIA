@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+apscheduler
+chromadb
+pypdf
+openai
+python-dotenv
+typer
